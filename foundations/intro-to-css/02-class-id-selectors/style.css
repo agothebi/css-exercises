@@ -1,0 +1,18 @@
+.pink{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tffont {
+    font-size: 24px;
+}
+#different {
+    color: blue;
+    font-size: 36px;
+}
+
+#different1 {
+    background-color: lightgreen;
+    font-weight: 800;
+    font-size: 24px;
+}
